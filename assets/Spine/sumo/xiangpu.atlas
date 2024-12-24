@@ -1,0 +1,48 @@
+
+xiangpu.png
+size: 938,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hong-duzi
+  rotate: false
+  xy: 665, 2
+  size: 175, 170
+  orig: 175, 170
+  offset: 0, 0
+  index: -1
+hong-gebo
+  rotate: false
+  xy: 2, 46
+  size: 241, 126
+  orig: 241, 126
+  offset: 0, 0
+  index: -1
+hong-tou
+  rotate: false
+  xy: 842, 90
+  size: 94, 82
+  orig: 94, 82
+  offset: 0, 0
+  index: -1
+lan-duzi
+  rotate: false
+  xy: 487, 2
+  size: 176, 170
+  orig: 176, 170
+  offset: 0, 0
+  index: -1
+lan-gebo
+  rotate: false
+  xy: 245, 46
+  size: 240, 126
+  orig: 240, 126
+  offset: 0, 0
+  index: -1
+lan-tou
+  rotate: false
+  xy: 842, 6
+  size: 94, 82
+  orig: 94, 82
+  offset: 0, 0
+  index: -1

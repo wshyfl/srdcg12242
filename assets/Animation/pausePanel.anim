@@ -1,0 +1,83 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "pausePanel",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8333333333333334,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "continueBtn": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -580,
+              "curve": [
+                0.18,
+                0.89,
+                0.31,
+                1.21
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "againBtn": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -580
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": -580,
+              "curve": [
+                0.18,
+                0.89,
+                0.31,
+                1.21
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "menuBtn": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -580
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": -580,
+              "curve": [
+                0.18,
+                0.89,
+                0.31,
+                1.21
+              ]
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

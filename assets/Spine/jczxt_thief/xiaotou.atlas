@@ -1,0 +1,62 @@
+
+xiaotou.png
+size: 360,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liuhan1
+  rotate: false
+  xy: 328, 25
+  size: 11, 14
+  orig: 60, 26
+  offset: 49, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 4
+  size: 90, 86
+  orig: 90, 86
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 94, 6
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+xd
+  rotate: false
+  xy: 180, 9
+  size: 84, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+you-gb
+  rotate: true
+  xy: 266, 47
+  size: 43, 60
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+you-ttui
+  rotate: false
+  xy: 328, 41
+  size: 30, 49
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+zuo-ttui
+  rotate: false
+  xy: 328, 41
+  size: 30, 49
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+zuo-gb
+  rotate: true
+  xy: 266, 2
+  size: 43, 60
+  orig: 43, 60
+  offset: 0, 0
+  index: -1

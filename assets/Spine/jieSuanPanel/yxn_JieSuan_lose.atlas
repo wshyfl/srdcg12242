@@ -1,0 +1,62 @@
+
+yxn_JieSuan_lose.png
+size: 1152,972
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js_ShiBai_piaodai
+  rotate: false
+  xy: 303, 178
+  size: 562, 164
+  orig: 562, 164
+  offset: 0, 0
+  index: -1
+yxz_JieSuan_ShiBai_huangguan
+  rotate: true
+  xy: 1010, 52
+  size: 155, 106
+  orig: 155, 106
+  offset: 0, 0
+  index: -1
+yxz_JieSuan_ShiBai_piaodai
+  rotate: false
+  xy: 303, 12
+  size: 562, 164
+  orig: 562, 164
+  offset: 0, 0
+  index: -1
+yxz_JieSuan_ShiBai_shibai
+  rotate: false
+  xy: 1010, 209
+  size: 140, 133
+  orig: 140, 133
+  offset: 0, 0
+  index: -1
+yxz_JieSuan_ShiBai_shibai2
+  rotate: false
+  xy: 867, 202
+  size: 141, 140
+  orig: 141, 140
+  offset: 0, 0
+  index: -1
+yxz_JieSuan_ShiBai_sibianxing
+  rotate: true
+  xy: 2, 2
+  size: 340, 299
+  orig: 340, 299
+  offset: 0, 0
+  index: -1
+yxz_JieSuan_ShiBai_waibian
+  rotate: true
+  xy: 2, 344
+  size: 626, 559
+  orig: 626, 559
+  offset: 0, 0
+  index: -1
+yxz_JieSuan_ShiBai_waibian2
+  rotate: true
+  xy: 563, 344
+  size: 626, 559
+  orig: 626, 559
+  offset: 0, 0
+  index: -1

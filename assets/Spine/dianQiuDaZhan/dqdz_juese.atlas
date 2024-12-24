@@ -1,0 +1,62 @@
+
+dqdz_juese.png
+size: 287,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7_shenti_hong
+  rotate: false
+  xy: 148, 128
+  size: 82, 75
+  orig: 82, 75
+  offset: 0, 0
+  index: -1
+7_shenti_lan
+  rotate: false
+  xy: 148, 51
+  size: 82, 75
+  orig: 82, 75
+  offset: 0, 0
+  index: -1
+7_shoubi_hong
+  rotate: true
+  xy: 2, 10
+  size: 148, 80
+  orig: 148, 80
+  offset: 0, 0
+  index: -1
+7_shoubi_lan
+  rotate: false
+  xy: 137, 205
+  size: 148, 80
+  orig: 148, 80
+  offset: 0, 0
+  index: -1
+7_tou_hong
+  rotate: false
+  xy: 2, 160
+  size: 133, 125
+  orig: 133, 125
+  offset: 0, 0
+  index: -1
+7_tui_hong
+  rotate: true
+  xy: 232, 103
+  size: 100, 47
+  orig: 100, 47
+  offset: 0, 0
+  index: -1
+7_tui_lan
+  rotate: false
+  xy: 148, 2
+  size: 100, 47
+  orig: 100, 47
+  offset: 0, 0
+  index: -1
+7_yinying_hong
+  rotate: true
+  xy: 84, 17
+  size: 141, 62
+  orig: 141, 62
+  offset: 0, 0
+  index: -1

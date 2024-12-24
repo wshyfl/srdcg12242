@@ -1,0 +1,55 @@
+
+yxn_JieSuan_win.png
+size: 962,1053
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js_ShengLi_piaodai
+  rotate: true
+  xy: 630, 489
+  size: 562, 164
+  orig: 562, 164
+  offset: 0, 0
+  index: -1
+yxz_JieSuan_ShengLi_huangguan
+  rotate: true
+  xy: 838, 332
+  size: 155, 105
+  orig: 155, 105
+  offset: 0, 0
+  index: -1
+yxz_JieSuan_ShengLi_lihua
+  rotate: false
+  xy: 2, 12
+  size: 492, 478
+  orig: 492, 478
+  offset: 0, 0
+  index: -1
+yxz_JieSuan_ShengLi_piaodai
+  rotate: true
+  xy: 796, 489
+  size: 562, 164
+  orig: 562, 164
+  offset: 0, 0
+  index: -1
+yxz_JieSuan_ShengLi_shengli
+  rotate: false
+  xy: 496, 2
+  size: 344, 184
+  orig: 344, 184
+  offset: 0, 0
+  index: -1
+yxz_JieSuan_ShengLi_sibianxing
+  rotate: false
+  xy: 496, 188
+  size: 340, 299
+  orig: 340, 299
+  offset: 0, 0
+  index: -1
+yxz_JieSuan_ShengLi_waibian
+  rotate: false
+  xy: 2, 492
+  size: 626, 559
+  orig: 626, 559
+  offset: 0, 0
+  index: -1

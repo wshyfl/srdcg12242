@@ -1,0 +1,62 @@
+
+jingcha.png
+size: 417,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dengguang
+  rotate: false
+  xy: 2, 2
+  size: 252, 151
+  orig: 264, 158
+  offset: 4, 7
+  index: -1
+shoudiantong
+  rotate: false
+  xy: 373, 19
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 341, 70
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 256, 67
+  size: 86, 83
+  orig: 86, 83
+  offset: 0, 0
+  index: -1
+you-gb
+  rotate: false
+  xy: 341, 4
+  size: 30, 64
+  orig: 31, 64
+  offset: 0, 0
+  index: -1
+you-tui
+  rotate: true
+  xy: 284, 38
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+zuo-gb
+  rotate: false
+  xy: 256, 4
+  size: 26, 61
+  orig: 27, 62
+  offset: 0, 1
+  index: -1
+zuo-tui
+  rotate: true
+  xy: 284, 11
+  size: 25, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1

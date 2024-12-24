@@ -1,0 +1,76 @@
+
+yxn_djs.png
+size: 984,407
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G-hong
+  rotate: false
+  xy: 472, 136
+  size: 234, 269
+  orig: 234, 269
+  offset: 0, 0
+  index: -1
+G-lan
+  rotate: false
+  xy: 708, 136
+  size: 234, 269
+  orig: 234, 269
+  offset: 0, 0
+  index: -1
+O-hong
+  rotate: false
+  xy: 2, 133
+  size: 233, 272
+  orig: 233, 272
+  offset: 0, 0
+  index: -1
+O-lan
+  rotate: false
+  xy: 237, 133
+  size: 233, 272
+  orig: 233, 272
+  offset: 0, 0
+  index: -1
+yxn_djs_h1
+  rotate: true
+  xy: 786, 80
+  size: 54, 196
+  orig: 54, 196
+  offset: 0, 0
+  index: -1
+yxn_djs_h2
+  rotate: true
+  xy: 400, 8
+  size: 123, 191
+  orig: 123, 191
+  offset: 0, 0
+  index: -1
+yxn_djs_h3
+  rotate: true
+  xy: 2, 2
+  size: 129, 197
+  orig: 129, 197
+  offset: 0, 0
+  index: -1
+yxn_djs_l1
+  rotate: true
+  xy: 786, 24
+  size: 54, 196
+  orig: 54, 196
+  offset: 0, 0
+  index: -1
+yxn_djs_l2
+  rotate: true
+  xy: 593, 11
+  size: 123, 191
+  orig: 123, 191
+  offset: 0, 0
+  index: -1
+yxn_djs_l3
+  rotate: true
+  xy: 201, 2
+  size: 129, 197
+  orig: 129, 197
+  offset: 0, 0
+  index: -1
